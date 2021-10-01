@@ -52,8 +52,8 @@ function App() {
               </p>
             </div>
             <div className="flex w-20 flex-col items-center">
-              <h5 className="font-body font-bold text-grayishBlue text-lg">1.4K</h5>
-              <p className="font-body text-darkGray text-xs tracking-widest mt-1">
+              <h5 className="font-body font-bold text-lg">1.4K</h5>
+              <p className="font-body text-darkGray text-xs text-grayishBlue  tracking-widest mt-1">
                 Photos
               </p>
             </div>
